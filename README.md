@@ -3,6 +3,9 @@
 **Langues : Français · [English](README.en.md)**  
 **Statut affiché au catalogue : POC**
 
+**Documentation propriétaire — tous droits réservés.** Aucun réemploi hors des fonctions de GitHub n'est autorisé sans l'accord écrit des titulaires des droits. [Notice de droits](NOTICE.md).
+[Carte des produits Elyne Corp](https://github.com/deharoalexandre-cyber/deharoalexandre-cyber)
+
 Un assistant domestique local qui réunit interaction vocale, mémoire, observation et commandes d'habitat dans un réseau maîtrisé par l'utilisateur.
 
 ## Capacités présentées

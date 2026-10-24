@@ -3,6 +3,9 @@
 **Languages: English · [Français](README.md)**  
 **Catalog status: Proof of concept**
 
+**Proprietary documentation — all rights reserved.** No reuse beyond GitHub platform functions is authorized without the rights holders' written consent. [Rights notice](NOTICE.md).
+[Elyne Corp product map](https://github.com/deharoalexandre-cyber/deharoalexandre-cyber)
+
 A local home assistant combining voice interaction, memory, observation, and home controls on a network managed by the user.
 
 ## Presented capabilities
